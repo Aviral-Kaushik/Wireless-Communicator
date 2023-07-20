@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="sensor_connector">Sensor Connector</string>
+    <string name="desc">Connect to the sensor using Usb, Wifi or Bluetooth</string>
+    <string name="connect_to_sensor_using_usb">Connect to sensor using USB</string>
+    <string name="connect_to_sensor_using_wifi">Connect to sensor using Wi-fi</string>
+    <string name="connect_to_sensor_using_bluetooth">Connect to sensor using Bluetooth</string>
+    <string name="usbdata">UsbData</string>
+    <string name="result_from_the_sensor">Result from the Sensor</string>
+</resources>
